@@ -1,0 +1,13 @@
+{
+  "name": "chosen",
+  "homepage": "https://github.com/MediaMath/chosen",
+  "_release": "51fa8942df",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "51fa8942df8c74afebd87dcadab4b1168b318341"
+  },
+  "_source": "https://2ce8730618e3865ba0af85d66deb6a1b7d0d6e0b:x-oauth-basic@github.com/MediaMath/chosen.git",
+  "_target": "master",
+  "_originalSource": "https://2ce8730618e3865ba0af85d66deb6a1b7d0d6e0b:x-oauth-basic@github.com/MediaMath/chosen.git"
+}
